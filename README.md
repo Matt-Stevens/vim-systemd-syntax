@@ -18,5 +18,5 @@ Installing
 
 
 ### Licence
-Copyright © 2017 [Matt Deacalion Stevens](http://dirtymonkey.co.uk), released under
+Copyright © 2020 [Matt Deacalion Stevens](https://dirtymonkey.co.uk), released under
 [The MIT Licence](http://deacalion.mit-license.org/).
